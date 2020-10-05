@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dion Vansevenant	dion@vansevenant.ca	@dionv
 
 # THANKS
 
